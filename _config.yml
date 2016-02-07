@@ -1,20 +1,20 @@
-name: John Doe
-bio: 'A Man who travels the world eating noodles'
-picture: 'assets/images/profile.jpg'
+name: Lamthong Keophalychanh
+bio: 'Doing more of what makes me happy.'
+picture: 
 
-url: http://sergiokopplin.github.io/indigo
+url: http://lamkeo.github.io/indigo
 permalink: /:title/
 
 analytics: 'UA-MYANALYTICS'
-disqus: mydisqus
-facebook: myfacebook
-twitter: mytwitter
-instagram: myinstagram
-linkedin: mylinkedin
-youtube: myyoutube
-spotify: myspotify
-github: mygithub
-email: myemail@gmail.com
+# disqus: mydisqus
+# facebook: myfacebook
+twitter: www.twitter.com/FatKidCaken
+instagram: www.instagram.com/fatkidcaken
+linkedin: www.linkedin.com/in/lamkeo
+# youtube: myyoutube
+# spotify: myspotify
+github: www.github.com/lamkeo
+email: thea913@gmail.com
 
 exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor]
 
