@@ -8,12 +8,12 @@ permalink: /:title/
 # analytics: 'UA-MYANALYTICS'
 # disqus: mydisqus
 # facebook: myfacebook
-twitter: www.twitter.com/FatKidCaken
-instagram: www.instagram.com/fatkidcaken
-linkedin: www.linkedin.com/in/lamkeo
+twitter: FatKidCaken
+instagram: fatkidcaken
+linkedin: lamkeo
 # youtube: myyoutube
 # spotify: myspotify
-github: www.github.com/lamkeo
+github: lamkeo
 email: thea913@gmail.com
 
 exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor]
