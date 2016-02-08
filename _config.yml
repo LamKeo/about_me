@@ -8,12 +8,12 @@ url: http://lamkeo.github.io/indigo
 # analytics: 'UA-MYANALYTICS'
 # disqus: mydisqus
 # facebook: myfacebook
-twitter: mytwitter
-instagram: myinstagram
-linkedin: mylinkedin
+twitter: fatkidcaken
+instagram: fatkidcaken
+linkedin: lamkeo
 # youtube: myyoutube
 # spotify: myspotify
-github: mygithub
+github: lamkeo
 email: thea913@gmail.com
 
 exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor]
