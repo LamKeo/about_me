@@ -28,20 +28,20 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 <h2>Skills</h2>
 
 <ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
+	<li>HTML - Jade - Erb</li>
+	<li>Responsive</li>
 	<li>CSS (Stylus, Sass, Less)</li>
 	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
+	<li>Javascript</li>
+	<li>Ruby</>
+	<li>Sinatra</>
 	<li>NodeJS</li>
 	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
+	<li>Grunt - Gulp</li>
 	<li>Git</li>
-	<li>PHP</li>
-	<li>Python</li>
 	<li>MySQL - MongoDB</li>
+	<li>Ruby on Rails</>
 	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
 </ul>
 
 <h2>Projects</h2>
