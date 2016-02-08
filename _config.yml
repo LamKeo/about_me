@@ -3,7 +3,7 @@ bio: 'Doing more of what makes me happy.'
 picture: 'src/images/profile.jpg'
 
 url: http://lamkeo.github.io/indigo
-# permalink: /:title/
+permalink: /:title/
 
 # analytics: 'UA-MYANALYTICS'
 # disqus: mydisqus
