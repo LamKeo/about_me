@@ -1,7 +1,7 @@
 ---
 title: About
 layout: page
-permalink: fatkidcoden.com/indigo/about 
+permalink: /about/index.
 ---
 #About
 
