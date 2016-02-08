@@ -1,6 +1,6 @@
 name: Lamthong Keophalychanh
 bio: 'Doing more of what makes me happy.'
-picture: src/images/profile.jpg'
+picture: '/src/images/profile.jpg'
 
 url: http://lamkeo.github.io/indigo
 permalink: /:title/
