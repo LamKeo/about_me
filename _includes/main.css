@@ -394,35 +394,28 @@ pre {
   fill: #000;
   color: #000;
 }
-.home,
-.blog {
+.home {
   margin-top: 125px;
 }
-.home .home__header,
-.blog .home__header {
+.home .home__header{
   display: block;
   margin: 0 auto;
   text-align: center;
 }
-.home .home__header img,
-.blog .home__header img {
+.home .home__header img {
   width: 125px;
   margin-bottom: 25px;
   border-radius: 100%;
 }
 .home .home__header h1,
-.blog .home__header h1,
-.home .home__header h2,
-.blog .home__header h2 {
+.home .home__header h2 {
   margin: 0;
 }
-.home .home__header h1,
-.blog .home__header h1 {
+.home .home__header h1 {
   font-size: 4rem;
   margin-bottom: 13px;
 }
-.home .home__header h2,
-.blog .home__header h2 {
+.home .home__header h2{
   font-size: 1.85rem;
   font-weight: 300;
   font-style: normal;
@@ -430,36 +423,29 @@ pre {
   width: 70%;
   margin: 0 auto 30px;
 }
-.home .home__header h2 a,
-.blog .home__header h2 a {
+.home .home__header h2 a {
   font-weight: 200;
 }
-.home .home__header .home__header-social,
-.blog .home__header .home__header-social {
+.home .home__header .home__header-social {
   margin-top: 20px;
 }
-.home .home__header .home__header-social a,
-.blog .home__header .home__header-social a {
+.home .home__header .home__header-social a {
   margin: 0 3px;
 }
-.home .home__header .home__header-social a:hover svg,
-.blog .home__header .home__header-social a:hover svg {
+.home .home__header .home__header-social a:hover svg {
   fill: #4b0082;
 }
-.home .home__header .home__header-social svg,
-.blog .home__header .home__header-social svg {
+.home .home__header .home__header-social svg {
   -webkit-transition: all ease-in-out 0.2s;
           transition: all ease-in-out 0.2s;
 }
-.home .home__sections,
-.blog .home__sections {
+.home .home__sections {
   border-top: 1px solid #ededed;
   margin-top: 30px;
   padding-top: 40px;
   position: relative;
 }
-.home .home__sections:before,
-.blog .home__sections:before {
+.home .home__sections:before {
   display: block;
   content: " ";
   width: 7px;
@@ -473,38 +459,32 @@ pre {
   box-shadow: #fff 0 0 0 5px;
   border-radius: 3px;
 }
-.home .home__sections .home__sections-single,
-.blog .home__sections .home__sections-single {
+.home .home__sections .home__sections-single {
   display: block;
   width: 95%;
   margin: 0 auto;
 }
-.home .home__sections .home__sections-single:hover h3,
-.blog .home__sections .home__sections-single:hover h3 {
+.home .home__sections .home__sections-single:hover h3 {
   color: #4b0082;
 }
-.home .home__sections .home__sections-single:hover aside,
-.blog .home__sections .home__sections-single:hover aside {
+.home .home__sections .home__sections-single:hover aside {
   color: #666;
 }
-.home .home__sections .home__sections-single a,
-.blog .home__sections .home__sections-single a {
+.home .home__sections .home__sections-single a {
   width: 100%;
   height: 100%;
   display: block;
   padding: 20px 0;
   text-decoration: none;
 }
-.home .home__sections .home__sections-single h3,
-.blog .home__sections .home__sections-single h3 {
+.home .home__sections .home__sections-single h3 {
   margin: 0;
   width: 75%;
   font-weight: 500;
   -webkit-transition: all ease-in-out 0.2s;
           transition: all ease-in-out 0.2s;
 }
-.home .home__sections .home__sections-single aside,
-.blog .home__sections .home__sections-single aside {
+.home .home__sections .home__sections-single aside {
   position: relative;
   top: 2px;
   margin: 0;
@@ -557,35 +537,6 @@ pre {
   float: right;
   font-weight: 300;
   color: #aaa;
-}
-.post {
-  margin-top: 125px;
-}
-.post h1.post__title {
-  text-align: center;
-  margin-bottom: 3rem;
-}
-.post h2,
-.post h3,
-.post h4 {
-  margin-top: 40px;
-}
-.post h2 a,
-.post h3 a,
-.post h4 a {
-  text-decoration: none;
-}
-.post span time {
-  color: #aaa;
-  font-weight: 300;
-  font-size: 1.4rem;
-  text-transform: uppercase;
-  text-align: center;
-  display: block;
-  margin-bottom: 6rem;
-  letter-spacing: 1px;
-  -webkit-font-smoothing: antialiased;
-  text-rendering: optimizeLegibility;
 }
 .nav {
   position: absolute;
@@ -789,22 +740,17 @@ footer p a {
   margin-left: 5px;
 }
 @media only screen and (max-width: 400px) {
-  .author .author__share .twitter,
-  .author .author__share .facebook {
+  .author .author__share .twitter {
     margin: 0 5px 10px 0;
   }
 }
 @media only screen and (min-width: 400px) and (max-width: 1050px) {
-  .author .author__share .twitter,
-  .author .author__share .facebook {
+  .author .author__share .twitter {
     margin: 0 5px 10px 0;
   }
 }
 .author .author__share .twitter {
   background: #4fafed;
-}
-.author .author__share .facebook {
-  background: #4361b3;
 }
 .author .author__left {
   width: 10%;
