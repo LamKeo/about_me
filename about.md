@@ -40,7 +40,7 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 	<li>Grunt - Gulp</li>
 	<li>Git</li>
 	<li>MySQL - MongoDB</li>
-	<li>Ruby on Rails</>
+	<li>Ruby on Rails</li>
 	<li>Scrum and Kanban</li>
 </ul>
 
