@@ -11,11 +11,11 @@ img { width: 50%; margin: 0 auto; display: block; }
 
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>I romanticized the idea of having a skill to make literally something out of nothing. Coding is something that I stumbled upon a few years ago. Without much knowledge about it at the time, following it for years, a desire for something more rewarding, and the inability to suppress my curiosity any longer; I decided to take a leap of faith and pursue a new skill. I just wanted to do amazing work with brilliant people.
+<p>I romanticized the idea of having a skill to make literally something out of nothing. Coding is something that I stumbled upon a few years ago. Without much knowledge about it at the time, following it for years, a desire for something more rewarding, and the inability to suppress my curiosity any longer; I decided to take a leap of faith and pursue a new skill. I just wanted to do amazing work with brilliant people.</p>
 
-I enjoyed the good days and the bad days. The comradery and support of my fellow classmates. The vast knowledge of content, industry, and insight that was delivered. The overall experience.
+<p>I enjoyed the good days and the bad days. The comradery and support of my fellow classmates. The vast knowledge of content, industry, and insight that was delivered. The overall experience.</p>
 
-Aside from all of the languages and technologies, I've learned that I will always be learning in this field. That I am more resilient than I was when I started and to constantly strive for growth as a developer. That it's ok if you don't know the answer right away because if there isn't a solution, we can make one. I have a super power now and I will not be afraid to use it.</p>
+<p>Aside from all of the languages and technologies, I've learned that I will always be learning in this field. That I am more resilient than I was when I started and to constantly strive for growth as a developer. That it's ok if you don't know the answer right away because if there isn't a solution, we can make one. I have a super power now and I will not be afraid to use it.</p>
 
 <h2>Skills</h2>
 
