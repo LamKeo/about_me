@@ -39,7 +39,7 @@ img { width: 50%; margin: 0 auto; display: block; }
 <h2>Projects</h2>
 
 <ul>
-	<li><a href="https://github.com/LamKeo/LamKeo.github.io">Roshambo</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
+	<li><a href="https://github.com/LamKeo/Fuckit_Buckit">Fuckit_Buckit</a></li>
+	<li><a href="https://github.com/WordUpp/WordUpp">WordUpp</a></li>
+	<li><a href="https://github.com/LamKeo/HoneyDew">HoneyDew</a></li>
 </ul>
