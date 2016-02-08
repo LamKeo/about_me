@@ -33,8 +33,8 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 	<li>CSS (Stylus, Sass, Less)</li>
 	<li>Css Frameworks (Bootstrap, Foundation)</li>
 	<li>Javascript</li>
-	<li>Ruby</>
-	<li>Sinatra</>
+	<li>Ruby</li>
+	<li>Sinatra</li>
 	<li>NodeJS</li>
 	<li>AngularJS - ReactJS</li>
 	<li>Grunt - Gulp</li>
