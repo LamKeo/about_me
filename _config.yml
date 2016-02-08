@@ -2,7 +2,7 @@ name: Lamthong Keophalychanh
 bio: 'Doing more of what makes me happy.'
 picture: 'images/profile.jpg'
 
-url: http://lamkeo.github.io/indigo
+url: http://lamkeo.github.io/
 permalink: /:title/
 
 # analytics: 'UA-MYANALYTICS'
