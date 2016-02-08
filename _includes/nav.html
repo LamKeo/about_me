@@ -1,4 +1,4 @@
-<nav>
+<nav class="{% if page.title == "Home" %}home__header-nav{% else %}nav{% endif %}">
     <ul>
         {% if page.title != "Home" %}<li><a href="{{ site.url }}/">Home</a></li>{% endif %}
         {% if page.title == "Home" %}<li><a href="http://github.com/{{ site.github }}" target="_blank">Github</a></li>{% endif %}
