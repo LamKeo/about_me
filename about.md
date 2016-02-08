@@ -26,7 +26,7 @@ img { width: 50%; margin: 0 auto; display: block; }
 	<li>Ruby</li>
 	<li>Sinatra</li>
 	<li>Backbone</li>
-	<li>NodeJS</li>
+	<li>NodeJS - ExpressJS</li>
 	<li>AngularJS - ReactJS</li>
 	<li>Grunt - Gulp</li>
 	<li>Git</li>
@@ -39,7 +39,7 @@ img { width: 50%; margin: 0 auto; display: block; }
 <h2>Projects</h2>
 
 <ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
+	<li><a href="https://github.com/LamKeo/LamKeo.github.io">Roshambo</a></li>
 	<li><a href="https://github.com/">Ipsum Dolor</a></li>
 	<li><a href="https://github.com/">Dolor Lorem</a></li>
 </ul>
