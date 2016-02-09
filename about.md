@@ -41,5 +41,5 @@ img { width: 50%; margin: 0 auto; display: block; }
 <ul>
 	<li><a href="https://github.com/LamKeo/Fuckit_Buckit">Fuckit_Buckit</a></li>
 	<li><a href="https://github.com/WordUpp/WordUpp">WordUpp</a></li>
-	<li><a href="https://github.com/LamKeo/HoneyDew">HoneyDew</a></li>
+	<li><a href="https://honeydews.herokuapp.com/">HoneyDew</a></li>
 </ul>
