@@ -5,4 +5,4 @@
 Simple portfolio about myself and some of my inner workings made with Jekyll. Get to know me!
 
 ---
-Fatkidcoden.com
+[fatkidcoden.com] (http://fatkidcoden.com)
