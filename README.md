@@ -1,8 +1,5 @@
-## Indigo Minimalist Jekyll Template - [Demo](http://lamkeo.github.io/indigo/)
+## Simple portfolio about myself and some of my inner workings made with Jekyll. Get to know me!
 
-![Screenshot](file:///Users/Thea/Desktop/Screen%20Shot%202016-02-10%20at%201.44.58%20AM.png)
-
-Simple portfolio about myself and some of my inner workings made with Jekyll. Get to know me!
-
+![Alt Text](http://i.imgur.com/CgDd8Vi.png)
 ---
 [fatkidcoden.com] (http://fatkidcoden.com)
